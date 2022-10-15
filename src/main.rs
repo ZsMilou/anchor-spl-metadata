@@ -1,3 +1,3 @@
 anchor_gen::generate_cpi_crate!("idl.json");
 
-declare_id!("Govz1VyoyLD5BL6CSCxUJLVLsQHRwjfFj1prNsdNg5Jw");
+declare_id!("metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s");
